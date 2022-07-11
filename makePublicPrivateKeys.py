@@ -1,13 +1,14 @@
 # Public Key Generator
 # HarishGovardhanDamodar
 
-import random, sys, os, primeNum, cryptomath
+import random, sys, os, primeNum, cryptomath,time
 
 
 def main():
     # Create a public/private keypair with 1024 bit keys:
     print('Making key files...')
-    makeKeyFiles('al_sweigart', 1024)
+    key_prefix='key_'+time.strftime('%Y%m%d_%H%M%S')
+    makeKeyFiles(key_prefix, 1024)
     print('Key files made.')
 
 def generateKey(keySize):
