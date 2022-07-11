@@ -1,5 +1,5 @@
 # Vigenere Cipher (Polyalphabetic Substitution Cipher)
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import pyperclip
 

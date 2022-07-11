@@ -1,5 +1,5 @@
 # Transposition Cipher Encrypt/Decrypt File
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import time, os, sys, transpositionEncrypt, transpositionDecrypt
 

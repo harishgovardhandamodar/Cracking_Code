@@ -1,5 +1,5 @@
 # Transposition File Hacker
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import time, os, sys, transpositionDecrypt, detectEnglish
 

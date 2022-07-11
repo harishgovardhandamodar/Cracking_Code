@@ -1,5 +1,5 @@
 # Detect English module
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 # To use, type this code:
 #   import detectEnglish

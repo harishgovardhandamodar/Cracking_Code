@@ -1,5 +1,5 @@
 # Transposition Cipher Test
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import random, sys, transpositionEncrypt, transpositionDecrypt
 

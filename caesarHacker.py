@@ -1,5 +1,5 @@
 # Caesar Cipher Hacker
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 message = 'guv6Jv6Jz!J6rp5r7Jzr66ntrM'
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'

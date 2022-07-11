@@ -1,5 +1,5 @@
 # Makes the wordPatterns.py File
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 # Creates wordPatterns.py based on the words in our dictionary
 # text file, dictionary.txt. (Download this file from
