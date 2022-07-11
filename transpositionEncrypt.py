@@ -1,5 +1,5 @@
 # Transposition Cipher Encryption
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import pyperclip
 

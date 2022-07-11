@@ -1,5 +1,5 @@
 # Prime Number Sieve
-# https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+# HarishGovardhanDamodar
 
 import math, random
 

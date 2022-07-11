@@ -1,5 +1,5 @@
 # Vigenere Cipher Hacker
-# https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+# HarishGovardhanDamodar
 
 import itertools, re
 import vigenereCipher, pyperclip, freqAnalysis, detectEnglish
